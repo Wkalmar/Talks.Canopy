@@ -5,6 +5,7 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="prunner.fs" />
     <Compile Include="GithubProfilePage.fs" />
     <Compile Include="GithubProfileTests.fs" />
     <Compile Include="Program.fs" />
